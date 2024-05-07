@@ -1,0 +1,27 @@
+{
+  "name": "ln-channel-animation",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "prettier": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dni/ln-channel-animation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dni/ln-channel-animation/issues"
+  },
+  "homepage": "https://github.com/dni/ln-channel-animation#readme",
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "vite": "^5.2.11"
+  },
+  "dependencies": {
+    "d3": "^7.9.0"
+  }
+}
