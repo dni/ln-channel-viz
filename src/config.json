@@ -1,0 +1,17 @@
+{
+    "date": "1715075444",
+    "levels": [
+        {
+            "level": 0,
+            "pubkeys": ["03b1c1a3dd064c7b4386b688c1f0950fddb28f61f2c3be8bcaf4ef3c78429ffe4e"]
+        },
+        {
+            "level": 1,
+            "pubkeys": []
+        },
+        {
+            "level": 2,
+            "pubkeys": []
+        }
+    ]
+}
