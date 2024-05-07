@@ -3,6 +3,9 @@ This project is a visualisation of the Lightning Network, a second layer payment
 
 Data is fetched on the github pages build step with `fetch.sh` and me node's pubkey. currently is going 3 levels deep, but can be changed in the `fetch.sh` file.
 
+![screenshot-1715075940](https://github.com/dni/ln-channel-viz/assets/1743657/06719b23-385b-4cc8-b946-53cd21765503)
+
+
 ## How to run
 clone the repository
 ```bash
